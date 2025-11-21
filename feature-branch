@@ -3,3 +3,4 @@ git branch feature-branch
 git checkout feature-branch
 echo "This is a new feature." > feature.txt
 git add feature.txt
+git commit -m "Добавлен новый файл feature.txt"
