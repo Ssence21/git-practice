@@ -1,1 +1,3 @@
 git clone <https://github.com/Ssence21/git-practice.git>
+git branch feature-branch
+git checkout feature-branch
